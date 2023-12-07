@@ -1,0 +1,2 @@
+python odoo-bin -r dbuser -w dbpassword --addons-path=addons -d mydb
+python odoo-bin -r odoo -w odoo --addons-path=addons -d postgres
